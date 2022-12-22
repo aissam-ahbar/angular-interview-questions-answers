@@ -19,6 +19,7 @@ creating efficient and sophisticated single-page apps.
 - **Improved Readability**: The organisation in components & modules makes the code blocks smaller and more easy to read and maintain.
 
 [3) Which are the main requirements to run an Angular Application ?](https://angular.io/guide/what-is-angular#components)
+
 You need to install :
 
 - **npm (Node Package Manager)** to install app dependencies
@@ -66,6 +67,7 @@ It is the fastest, straightforward, and recommended way to develop Angular appli
 - **Angular HttpClient** to handle client-server communication
 - **Angular Router** to handle client-side navigation and routing based on Angular components.
 
-[11) What is Angular Internationalization ?](https://angular.io/guide/i18n-overview#angular-internationalization)
+[10) What is Angular Internationalization ?](https://angular.io/guide/i18n-overview#angular-internationalization)
 
-- **Angular HttpClient** allows to communicate with the backend properly
+- _Internationalization (i18n)_ is building your project for use in different locales around the world.
+- _Localization_ is building versions of your project for different locales. The localization process includes the following actions.
