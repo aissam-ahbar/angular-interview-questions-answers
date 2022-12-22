@@ -66,6 +66,6 @@ It is the fastest, straightforward, and recommended way to develop Angular appli
 - **Angular HttpClient** to handle client-server communication
 - **Angular Router** to handle client-side navigation and routing based on Angular components.
 
-[10) What is Angular Internationalization ?](https://angular.io/guide/i18n-overview#angular-internationalization)
+[11) What is Angular Internationalization ?](https://angular.io/guide/i18n-overview#angular-internationalization)
 
 - **Angular HttpClient** allows to communicate with the backend properly
