@@ -67,7 +67,7 @@ It is the fastest, straightforward, and recommended way to develop Angular appli
 - **Angular HttpClient** to handle client-server communication
 - **Angular Router** to handle client-side navigation and routing based on Angular components.
 
-[10) What is Angular Internationalization ?](https://angular.io/guide/i18n-overview#angular-internationalization)
+[11) What is Angular Internationalization ?](https://angular.io/guide/i18n-overview#angular-internationalization)
 
 - _Internationalization (i18n)_ is building your project for use in different locales around the world.
 - _Localization_ is building versions of your project for different locales. The localization process includes the following actions.
